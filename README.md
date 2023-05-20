@@ -5,17 +5,33 @@
 Photo sharing app powered by Appwrite
 
 ## Team members
-1. Ashwin Sivasanakaran [Embed personal github URL]
-2. Jyothish T R [Embed perosnal github URL]
+1. Ashwin Sivasanakaran [ashwinsk24](https://github.com/ashwinsk24)
+2. Jyothish T R [Mr3lueSky](https://github.com/Mr3lueSky)
 
-## Link to product walkthrough
-[link to video]
-## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
-## Libraries used
-Library Name - Version
-## How to configure
-Instructions for setting up project
-## How to Run
-Instructions for running
+## Getting Started
+To start using install everything using:
+```bash
+
+$ yarn install --check-files
+$ yarn dev
+
+```
+
+Then open your browser and go to: [http://localhost:5173](http://localhost:5173)
+
+## Appwrite
+Head over to [appwrite.io](https://appwrite.io) to get started, then update
+the `src/providers/api.tsx` file with your project id and endpoint.
+
+## Libs/Tools
+- [Vite](https://vitejs.dev/) for development and bundling. This template was created using `$ yarn create vite react-vite-appwrite --template react-ts`
+
+- [vite-plugin-pages](https://github.com/hannoeru/vite-plugin-pages) for file/folder based routing.
+
+- [ChakraUI](https://chakra-ui.com/) has a nice set of components for the UI
+
+- [Formik](https://formik.org/) for handling forms in a nice way.
+
+- [Yup](https://github.com/jquense/yup) for dead simple Object schema based validation.
+
+- [React-Icons](https://react-icons.github.io/react-icons/) for icons.
