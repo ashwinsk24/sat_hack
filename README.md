@@ -35,3 +35,8 @@ the `src/providers/api.tsx` file with your project id and endpoint.
 - [Yup](https://github.com/jquense/yup) for dead simple Object schema based validation.
 
 - [React-Icons](https://react-icons.github.io/react-icons/) for icons.
+
+## Video walkthrough
+
+https://github.com/ashwinsk24/sat_hack/assets/71746986/fb8f18f8-eb5b-4859-af0e-aa5c56362741
+
